@@ -1,4 +1,4 @@
-# COVID_Info_APP
+# 😷😷😷 COVID_Info_APP
 
 ![image](https://user-images.githubusercontent.com/57929751/146967604-3074122f-c285-4d33-bfa3-fde2bcabc309.png)
 
