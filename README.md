@@ -6,7 +6,6 @@
 
 ![image](https://user-images.githubusercontent.com/57929751/147845154-4dc68d70-5f59-4820-a283-1e56627400b0.png)
 
-
 # ⚙ 기술 스택
 
 Language - JavaScript(ES6), Html, Css, Node.js
@@ -24,3 +23,22 @@ Development OS - Windows10
 Configuration Management - Github
 
 Design framework - Element+
+
+# 📌 요구 사항 분석
+
+국제 COVID19 현황
+
+국가 검색 기능
+
+국내 COVID19 현황
+
+국내 COVID19 차트 현황
+
+# ✔ 요구사항 체크리스트
+
+---
+
+- [x] 국제 COVID19 현황
+- [x] 국가 검색 기능
+- [ ] 국내 COVID19 현황
+- [ ] 국내 COVID19 차트 현황
