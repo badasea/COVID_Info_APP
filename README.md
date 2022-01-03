@@ -1,5 +1,7 @@
 # 😷😷😷 COVID_Info_APP
 
+## link : https://badasea.github.io/COVID_Info_APP/
+
 ![image](https://user-images.githubusercontent.com/57929751/147845154-4dc68d70-5f59-4820-a283-1e56627400b0.png)
 
 # ⚙ 기술 스택
