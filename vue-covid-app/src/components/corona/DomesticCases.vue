@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h2>국내 현황</h2>
+    <h2>Domestic status</h2>
   </div>
 </template>
 

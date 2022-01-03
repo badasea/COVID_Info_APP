@@ -39,17 +39,17 @@ export default {
     const state = reactive({
       menuItem: [
         {
-          label: "코로나 현황 요약",
+          label: "코로나 현황",
           index: "corona-briefing",
           icon: "location",
           submenus: [
             {
-              label: "국가별 요약",
+              label: "Summary by country.",
               index: "InternationalCases",
               path: "corona",
             },
             {
-              label: "국내 요약",
+              label: "Korean summary",
               index: "DomesticCases",
               path: "corona",
             },
