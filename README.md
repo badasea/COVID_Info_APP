@@ -36,7 +36,6 @@ Design framework - Element+
 
 # ✔ 요구사항 체크리스트
 
----
 
 - [x] 국제 COVID19 현황
 - [x] 국가 검색 기능
