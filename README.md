@@ -12,7 +12,7 @@ Language - JavaScript(ES6), Html, Css, Node.js
 
 Front-end - Vue3.js
 
-API - NPM(Vue, element-plus, Axios), COVID19-API
+API - NPM(Vue, element-plus, Axios, Chart.js, Moment.js), COVID19-API
 
 IDE - Visual Studio Code
 
@@ -30,14 +30,13 @@ Design framework - Element+
 
 국가 검색 기능
 
-국내 COVID19 현황
+국내 COVID19 누적 확진/사망자 추이 차트
 
-국내 COVID19 차트 현황
+국내 COVID19 확진자 대비 사망자 차트
 
 # ✔ 요구사항 체크리스트
 
-
 - [x] 국제 COVID19 현황
 - [x] 국가 검색 기능
-- [ ] 국내 COVID19 현황
-- [ ] 국내 COVID19 차트 현황
+- [ ] 국내 COVID19 누적 확진/사망자 추이 차트
+- [ ] 국내 COVID19 확진자 대비 사망자 차트
