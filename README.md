@@ -2,7 +2,8 @@
 
 ![image](https://user-images.githubusercontent.com/57929751/147959819-3cf163b7-4baf-4048-96ee-41b766752ea2.png)
 
-## link : https://badasea.github.io/COVID_Info_APP/
+
+![image](https://user-images.githubusercontent.com/57929751/148021917-c6a59610-8926-4c8e-9f0e-e52fe071fb2f.png)
 
 ![image](https://user-images.githubusercontent.com/57929751/147845154-4dc68d70-5f59-4820-a283-1e56627400b0.png)
 
@@ -38,5 +39,5 @@ Design framework - Element+
 
 - [x] 국제 COVID19 현황
 - [x] 국가 검색 기능
-- [ ] 국내 COVID19 누적 확진/사망자 추이 차트
-- [ ] 국내 COVID19 확진자 대비 사망자 차트
+- [x] 국내 COVID19 누적 확진/사망자 추이 차트
+- [x] 국내 COVID19 확진자 대비 사망자 차트
